@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Mercenario
   - Interactable
+  - Item
   layers:
   - Default
   - TransparentFX
